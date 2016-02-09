@@ -1,0 +1,297 @@
+ADL, terminal arjsoari, -7.9332105,112.6569646
+ADL, JL raden intan, -7.932861, 112.656907
+ADL, jl raden intan, -7.932234, 112.655319
+ADL, jl Raden intan, -7.931512, 112.653710
+ADL, jl Raden intan no 103, -7.930885, 112.652294
+ADL, jl Raden intan no 1, -7.930290, 112.650802
+ADL, Jalan Raden Intan No.1, -7.929694, 112.649682
+ADL, Jalan Raden Intan No.1, -7.929364, 112.648942
+ADL, jl Ahmad Yani, -7.929496, 112.648778
+ADL, Jalan A. Yani No.10 C, -7.930612, 112.648135
+ADL, Jalan A. Yani No.196B, -7.931671, 112.647525
+ADL, Jalan A. Yani No.171, -7.932557, 112.647050
+ADL, Jalan Raya Malang - Surabaya No.153a, -7.933420, 112.646600
+ADL, Jalan Raya Malang - Surabaya No.127, -7.934608, 112.645914
+ADL, kedai stmj, -7.934612, 112.645938
+ADL, badan rsj malang, -7.939021, 112.643502
+ADL, Jalan Raya Malang - Surabaya No.66, -7.940610, 112.642803
+ADL, Jalan A. Yani No.30, -7.941832, 112.642255
+ADL, Jalan A. Yani No.18C, -7.942956, 112.641726
+ADL, Jalan Raya Malang - Surabaya No.108, -7.944518, 112.641100
+ADL, jl letjen suparman, -7.944928, 112.640966
+ADL, Jalan Letjend S. Parman No.108, -7.945604, 112.640699
+ADL, Dokter Gigi Jalan Letjend S. Parman, -7.945992, 112.640577
+ADL, Jalan Letjend S. Parman No.111, -7.947342, 112.640204
+ADL, Jalan Raya Malang - Surabaya No.101, -7.947985, 112.640059
+ADL, Jalan Letjend S. Parman No.82, -7.948501, 112.639907
+ADL, Jalan Letjend S. Parman No.72, -7.950082, 112.639573
+ADL, Jalan Letjend S. Parman No.52, -7.951869, 112.639200
+ADL, Jalan Letjend S. Parman No.36, -7.952998, 112.638948
+ADL, Jalan Letjend S. Parman No.16, -7.954697, 112.638575
+ADL, Jalan Raya Malang - Surabaya No.105, -7.955527, 112.638403
+ADL, Jalan Letjend Sutoyo Dalam, -7.956664, 112.638138
+ADL, jl letjen sutoyo, -7.957724, 112.637886
+ADL, jl letjen sutoyo 96, -7.959233, 112.637424
+ADL, Jalan Letjen Sutoyo No.66C, -7.960347, 112.637034
+ADL, Jalan Letjen Sutoyo No.66C, -7.960358, 112.637042
+ADL, Jalan Letjen Sutoyo No.22, -7.963919, 112.635310
+ADL, Jalan Letjen Sutoyo No.22, -7.963271, 112.635662
+ADL, Jalan Letjen Sutoyo No.22, -7.964460, 112.635049
+ADL, Jalan Warung Supratman, -7.964781, 112.635473
+ADL, Jalan Warung Supratman, -7.965434, 112.636546
+ADL, Jalan Warung Supratman, -7.965527, 112.636818
+ADL, Jalan Raya Mahakam, -7.966329, 112.638224
+ADL, Jalan Panglima Sudirman, -7.966722, 112.638261
+ADL, Jalan Raya Mahakam, -7.966924, 112.638476
+ADL, Jalan Hamid Rusdi No.19, -7.967132, 112.638771
+ADL, Jalan Hamid Rusdi No.19, -7.967307, 112.638696
+ADL, Jalan Panglima Sudirman, -7.967562, 112.638347
+ADL, Jalan Panglima Sudirman No.98, -7.968789, 112.638342
+ADL, Jalan Dokter Cipto No.32, -7.969225, 112.638395
+ADL, Jalan Panglima Sudirman No.97, -7.970202, 112.638438
+ADL, Jalan Panglima Sudirman No.1, -7.970409, 112.638443
+ADL, Jalan Panglima Sudirman No.1, -7.970988, 112.638443
+ADL, Gereja Kristen Abdiel Imanuel, -7.971860, 112.638476
+ADL, Jalan Setiabudi, -7.972917, 112.638481
+ADL, Jalan Patimura, -7.973480, 112.638481
+ADL, Jalan Patimura No.1 C, -7.973422, 112.637569
+ADL, Jalan Patimura No.1, -7.973422, 112.636662
+ADL, Jalan Trunojoyo No.22, -7.974309, 112.636679
+ADL, Jalan Trunojoyo No.19, -7.975138, 112.636684
+ADL, Jalan Trunojoyo No.46, -7.975791, 112.636727
+ADL, Jalan Trunojoyo No.81, -7.976684, 112.636754
+ADL, Jalan Trunojoyo No.81, -7.977395, 112.636791
+ADL, Jalan Trunojoyo No.10, -7.977645, 112.636813
+ADL, Jalan Kertanegara No.3, -7.977656, 112.636426
+ADL, Jalan Kertanegara No.1, -7.977592, 112.635933
+ADL, R Langga, -7.977480, 112.635466
+ADL, Jalan Kertanegara No.1, -7.977374, 112.635000
+ADL, Malang City Tour Station, Jalan Tugu, -7.977332, 112.634645
+ADL, Jalan Tugu No.1A, -7.977693, 112.634308
+ADL, Jalan Tugu No.1, -7.977597, 112.63363
+ADL, Balaikota Malang, Jalan Tugu No.1, -7.976992, 112.633449
+ADL, Jalan Kahuripan, -7.976795, 112.632655
+ADL, Jalan Kahuripan, -7.976652, 112.631942
+ADL, BTA 8 Malang, Jalan Kahuripan, -7.976609, 112.631518
+ADL, Jalan Kahuripan No.14, -7.976567, 112.630831
+ADL, Jalan Kahuripan No.11, -7.976514, 112.630118
+ADL, Jalan Kahuripan No.22a, -7.976476, 112.629490
+ADL, Jalan Semeru No.10, -7.976439, 112.628793
+ADL, Jalan Semeru No.21, -7.976479, 112.628104
+ADL, Jalan Semeru No.21, -7.976539, 112.627782
+ADL, Jalan Arjuno No.19, -7.976541, 112.627573
+ADL, Jalan Semeru No.34, -7.976347, 112.627575
+ADL, Jalan Semeru No.34, -7.976137, 112.627292
+ADL, Jalan Semeru No.36, -7.975977, 112.626954
+ADL, Jalan Semeru No.41, -7.975834, 112.626693
+ADL, Jalan Semeru No.41, -7.975667, 112.626433
+ADL, Jalan Semeru No.41, -7.975470, 112.626211
+ADL, Jalan Tangkuban Perahu No.7, -7.975575, 112.626092
+ADL, Jalan Tangkuban Perahu No.7, -7.975588, 112.625959
+ADL, Jalan Tangkuban Perahu No.7, -7.975494, 112.625862
+ADL, Jalan Semeru No.42, -7.975275, 112.625932
+ADL, Jalan Semeru No.42, -7.974994, 112.625739
+ADL, Jalan Semeru No.42, -7.974672, 112.625496
+ADL, Jalan Semeru No.60, -7.974372, 112.625209
+ADL, Jalan Semeru No.60, -7.974173, 112.624979
+ADL, Jalan Semeru No.60, -7.973974, 112.624702
+ADL, Jalan Semeru No.60, -7.973687, 112.624345
+ADL, Jalan Merapi, -7.973434, 112.623991
+ADL, Jalan Semeru No.43, -7.973254, 112.623640
+ADL, Jalan Semeru No.64, -7.973131, 112.623432
+ADL, Jalan Semeru No.49, -7.972954, 112.623059
+ADL, Jalan Semeru No.80, -7.972818, 112.622743
+ADL, Jalan Semeru No.80, -7.972701, 112.622507
+ADL, Jalan Semeru No.57, -7.972452, 112.622019
+ADL, Jalan Semeru No.57, -7.972502, 112.621710
+ADL, Jalan Ijen No.18, -7.973093, 112.621506
+ADL, Jalan Ijen No.18, -7.973630, 112.621324
+ADL, Jalan Ijen No.12, -7.974066, 112.621231
+ADL, Jalan Ijen No.12, -7.974464, 112.621101
+ADL, Jalan Ijen No.10, -7.975070, 112.620944
+ADL, Jalan Ijen No.10, -7.975740, 112.620753
+ADL, Jalan Kawi No.41, -7.975846, 112.620571
+ADL, Jalan Ijen No.10, -7.974517, 112.620866
+ADL, Jalan Wilis No.3, -7.972685, 112.621322
+ADL, Jalan Retawu, -7.971835, 112.621622
+ADL, Jalan Dempo No.2, -7.970220, 112.622615
+ADL, Jalan Besar Ijen No.53, -7.969306, 112.623151
+ADL, Jalan Pahlawan Trip, -7.968594, 112.623500
+ADL, Jalan Besar Ijen No.53, -7.968392, 112.623714
+ADL, Jalan Besar Ijen No.68, -7.967064, 112.624235
+ADL, Jalan Besar Ijen No.72, -7.966756, 112.624364
+ADL, Jalan Besar Ijen No.77C, -7.965582, 112.624793
+ADL, Jalan Besar Ijen No.81, -7.964471, 112.625029
+ADL, Jalan Besar Ijen No.85, -7.963552, 112.625361
+ADL, Jalan Besar Ijen No.89, -7.963260, 112.625490
+ADL, Jalan Besar Ijen No.89, -7.962968, 112.625597
+ADL, Wisma Bukop, Jalan Besar Ijen No.94, -7.962495, 112.625742
+ADL, Jalan Bandung No.4, -7.962272, 112.625790
+ADL, Jalan Bandung No.4, -7.962192, 112.625190
+ADL, Jalan Bandung No.4, -7.962086, 112.624583
+ADL, Jalan Bandung No.5C, -7.962107, 112.624160
+ADL, Jalan Bandung No.5a, -7.962123, 112.623886
+ADL, Jalan Garut No.3, -7.962203, 112.623505
+ADL, Jalan Bandung No.22, -7.961629, 112.623457
+ADL, Jalan Bandung No.24, -7.961321, 112.623253
+ADL, Jalan Bandung No.24, -7.961183, 112.623028
+ADL, Jalan Bandung No.32, -7.960901, 112.622652
+ADL, Jalan Bandung No.36, -7.960503, 112.622127
+ADL, Jalan Bandung No.36a, -7.960099, 112.621633
+ADL, Jalan Bogor No.28, -7.959521, 112.622039
+ADL, Jalan Bogor No.28, -7.959043, 112.622443
+ADL, Jalan Bogor No.105, -7.958808, 112.622630
+ADL, Jalan Bogor No.1, -7.958536, 112.622824
+ADL, Jalan Bogor No.35, -7.958292, 112.623083
+ADL, Jalan Bogor No.35, -7.957890, 112.623403
+ADL, Jalan Mayjend. Panjaitan No.75, -7.957890, 112.623449
+ADL, Jalan Mayjend. Panjaitan No.42, -7.957392, 112.622997
+ADL, Jalan Mayjend. Panjaitan No.77, -7.957084, 112.622680
+ADL, Jalan Mayjend. Panjaitan No.77, -7.956659, 112.622299
+ADL, Jalan Mayjend. Panjaitan No.95, -7.955824, 112.621538
+ADL, Jalan Mayjen Panjaitan Gang 15, -7.954401, 112.620298
+ADL, Jalan Mayjend. Panjaitan No.135, -7.954231, 112.620159
+ADL, Jalan Mayjend. Panjaitan No.135, -7.954013, 112.619977
+ADL, Jalan Mayjend. Panjaitan No.135, -7.953322, 112.619370
+ADL, Jalan Mayjend. Panjaitan No.135, -7.952971, 112.619065
+ADL, Gang 17, -7.952663, 112.618711
+ADL, Jalan Mayjend. Panjaitan No.215, -7.952334, 112.618287
+ADL, Gang 19, -7.952015, 112.617852
+ADL, Jalan Mayjend. Panjaitan No.226, -7.951489, 112.617246
+ADL, Jalan Raya Bogor, -7.950443, 112.616066
+ADL, Jalan Mayjend. Panjaitan No.143, -7.949954, 112.615368
+ADL, Jalan M.T. Haryono No.161, -7.949789, 112.615352
+ADL, Jalan M.T. Haryono No.72, -7.949173, 112.614741
+ADL, Jalan M.T. Haryono No.72,  -7.948583, 112.614193
+ADL, Jalan M.T. Haryono No.72, -7.947866, 112.613662
+ADL, Apotek Kimia Farma MT haryono, Jalan M.T. Haryono, -7.947361, 112.613271
+ADL, Jalan M.T. Haryono No.72, -7.946803, 112.612901
+ADL, Jalan M.T. Haryono No.72, -7.946426, 112.612584
+ADL, Jalan M.T. Haryono No.331, -7.945778, 112.612166
+ADL, Jalan M.T. Haryono No.331, -7.945156, 112.611795
+ADL, Jalan M.T. Haryono No.331, -7.944524, 112.611334
+ADL, Jalan M.T. Haryono No.331, -7.943998, 112.610932
+ADL, Jalan Mt Haryono 9, -7.943605, 112.610690
+ADL, Gazebo Ptiik, Mt Haryono, -7.943132, 112.610288
+ADL, Jalan M.T. Haryono No.115, -7.942813, 112.610100
+ADL, Jalan M.T. Haryono No.115, -7.942139, 112.609591
+ADL, Jalan M.T. Haryono No.934, -7.941660, 112.609258
+ADL, Jalan M.T. Haryono No.934, -7.941326, 112.608984
+ADL, Jalan M.T. Haryono No.33, -7.940879, 112.608689
+ADL, Gang 8, -7.940667, 112.608512
+ADL, Jalan M.T. Haryono No.5, -7.940045, 112.608126
+ADL, Jalan M.T. Haryono No.157, -7.939897, 112.608029
+ADL, Jalan M.T. Haryono No.8, -7.939610, 112.607847
+ADL, Jalan M.T. Haryono No.5, -7.940045, 112.608120
+ADL, Pegadaian Tlogomas, Jalan M.T. Haryono, -7.939806, 112.607970
+ADL, Gang 19 No.6, -7.939530, 112.607799
+ADL, Jalan M.T. Haryono No.171D, -7.938977, 112.607418
+ADL, Jalan M.T. Haryono No.176, -7.938776, 112.607236
+ADL, Jalan M.T. Haryono No.171, -7.938489, 112.607048
+ADL, Warung Dinoyo, -7.938196, 112.606812
+ADL, Jalan M.T. Haryono No.187, -7.937713, 112.606501
+ADL, Jalan M.T. Haryono No.187, -7.937075, 112.606066
+ADL, Jalan M.T. Haryono No.187, -7.936597, 112.605744
+ADL, Surya Media Cell, Jalan M.T. Haryono, -7.935965, 112.605315
+ADL, Jalan Tlogomas No.19, -7.935189, 112.604763
+ADL, Jalan Tlogomas No.6, -7.934594, 112.604382
+ADL, Jalan Tlogomas No.11, -7.934244, 112.604146
+ADL, Jalan Tlogomas No.11, -7.933648, 112.603733
+ADL, Jalan Tlogomas No.23, -7.933239, 112.603411
+ADL, Jalan Tlogomas No.27, -7.932793, 112.603143
+ADL, Jalan Tlogomas No.28, -7.932219, 112.602756
+ADL, Gang 3 No.56A, -7.931459, 112.602606
+ADL, Jalan Baiduri Bulan 2 No.1, -7.931018, 112.602714
+ADL, Jalan Tlogomas No.48, -7.930721, 112.602724
+ADL, Jalan Baiduri Pandan No.2, -7.930105, 112.602848
+ADL, Jalan Tlogomas No.36, -7.929552, 112.602896
+ADL, Jalan Tlogomas No.8, -7.928893, 112.602944
+ADL, Jalan Tlogomas No.106, -7.927688, 112.602773
+ADL, Jalan Tlogomas No.1a, -7.927429, 112.602690
+ADL, Jalan Tlogomas No.1a, -7.926819, 112.602129
+ADL, Jalan Tlogomas No.123, -7.926402, 112.601657
+ADL, Jalan Tlogomas No.123, -7.926029, 112.601268
+ADL, Gang 10 No.14, -7.925457, 112.600652
+ADL, Jalan Tlogomas No.107, -7.925183, 112.600378
+ADL, Jalan Tlogomas No.55, -7.924920, 112.600024
+ADL, Jalan Tlogomas No.62, -7.924759, 112.599826
+ADL, Jalan Tlogomas No.62, -7.924361, 112.599300
+ADL, Jalan Tlogomas No.83, -7.924153, 112.598965
+ADL, Jalan Tlogomas No.83, -7.924075, 112.598882
+ADL, Terminal Landungsari, Jalan Tlogomas, -7.924631, 112.598513
+ADL, Terminal Landungsari, Jalan Tlogomas, -7.924376, 112.597976
+ADL, Terminal Landungsari, Jalan Tlogomas, -7.924497, 112.597884
+ADL, Terminal Landungsari, Jalan Tlogomas, -7.924612, 112.597814
+ADL, Terminal Landungsari, Jalan Tlogomas,  -7.924855, 112.598110
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

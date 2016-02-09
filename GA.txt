@@ -1,0 +1,269 @@
+GA, terminal gadang, -8.022337, 112.627855
+GA, Jalan Kolonel Sugiono No.7, -8.022318, 112.627632
+GA, Jalan Gadang Bumiayu, -8.022634, 112.627627
+GA, Jalan Gadang Bumiayu, -8.022815, 112.627613
+GA, Jalan Apida Satsui Tubun No.38, -8.022716, 112.627138
+GA, Jalan Apida Satsui Tubun No.38, -8.022624, 112.626760
+GA, Jalan Apida Satsui Tubun No.38, -8.022549, 112.626385
+GA, Jalan Apida Satsui Tubun No.15, -8.022459, 112.626127
+GA, Jalan Apida Satsui Tubun No.28a, -8.022414, 112.625888
+GA, Jalan Apida Satsui Tubun No.28a, -8.022307, 112.625414
+GA, Jalan Apida Satsui Tubun No.28a, -8.022175, 112.624888
+GA, Jalan Apida Satsui Tubun No.28a, -8.022108, 112.624660
+GA, Jalan Apida Satsui Tubun No.32, -8.022039, 112.624311
+GA, Jalan Apida Satsui Tubun No.32, -8.021970, 112.624027
+GA, Jalan Apida Satsui Tubun No.28, -8.021861, 112.623670
+GA, Jalan Satsui Tubun Gang IV, -8.021718, 112.623230
+GA, Jalan Apida Satsui Tubun No.20, -8.021649, 112.623024
+GA, Jalan Apida Satsui Tubun No.20, -8.021590, 112.622850
+GA, Jalan Apida Satsui Tubun No.20, -8.021492, 112.622597
+GA, Gang Sunan Bonang, -8.021436, 112.622477
+GA, Jalan Apida Satsui Tubun No.39, -8.021147, 112.621675
+GA, Jalan Apida Satsui Tubun No.17, -8.020998, 112.621238
+GA, Jalan Apida Satsui Tubun No.25, -8.020727, 112.620524
+GA, Jalan Apida Satsui Tubun No.8a, -8.020669, 112.620355
+GA, Jalan Apida Satsui Tubun No.8a, -8.020608, 112.620199
+GA, Gang Kusuma, -8.020470, 112.619851
+GA, Jalan Apida Satsui Tubun No.8a, -8.020289, 112.619330
+GA, Jalan Apida Satsui Tubun No.8a, -8.020177, 112.619084
+GA, Jalan Kebon Sari No.174, -8.019843, 112.619164
+GA, Jalan Kebon Sari No.174, -8.019697, 112.619218
+GA, Jalan Sudanco Supriadi No.8, -8.019341, 112.619376
+GA, Jalan Sudanco Supriadi No.8, -8.018924, 112.619550
+GA, Agenpos Dinamika Cipta gemilang, -8.018256, 112.619809
+GA, Jalan Kebon Sari No.2, -8.017692, 112.619923
+GA, Jalan Kebon Sari No.53, -8.017144, 112.620022
+GA, Jalan Sudanco Supriadi No.14a, -8.016535, 112.620090
+GA, Jalan Kebon Sari No.4, -8.015807, 112.620188
+GA, Arema, Jalan Kebon Sari, -8.015288, 112.620226
+GA, Gang Makam, -8.014837, 112.620287
+GA, Jalan Raya Kepuh No.18, -8.014244, 112.620355
+GA, Jalan Raya Kepuh No.18, -8.013643, 112.620378
+GA, Gang 6, -8.013027, 112.620408
+GA, Jalan Sudanco Supriadi No.71, -8.012208, 112.620386
+GA, Jalan Sudanco Supriadi No.70, -8.011878, 112.620317
+GA, Notaris, Gang 10, -8.011472, 112.620257
+GA, Gang 3, -8.010803, 112.620120
+GA, Jalan Sudanco Supriadi No.225, -8.010067, 112.619885
+GA, Jalan Sudanco Supriadi No.236, -8.009564, 112.619726
+GA, Jalan Sudanco Supriadi No.220, -8.008797, 112.619483
+GA, Jalan Nasional 23 No.220, -8.008106, 112.619233
+GA, Jalan Sudanco Supriadi No.169, -8.007716, 112.619111
+GA, Jalan Sudanco Supriadi No.169, -8.007498, 112.619013
+GA, Jalan Sudanco Supriadi No.169, -8.006912, 112.618808
+GA, Jalan Klayatan 3 No.6, -8.005965, 112.618459
+GA, Jalan Kolonel Slamet Riyadi, -8.005244, 112.618239
+GA, Jalan Kolonel Slamet Riyadi, -8.004433, 112.618011
+GA, Jalan Kolonel Slamet Riyadi, -8.003760, 112.617910
+GA, Jalan Kolonel Slamet Riyadi, -8.003223, 112.617795
+GA, Jalan Kolonel Slamet Riyadi No.88, -8.002673, 112.617718
+GA, Jalan Klayatan II, -8.002086, 112.617744
+GA, Jalan Kolonel Slamet Riyadi No.88, -8.001302, 112.617789
+GA, Jalan Kolonel Slamet Riyadi No.88, -8.000892, 112.617923
+GA, Jalan Kolonel Slamet Riyadi No.88, -8.000386, 112.618120
+GA, Jalan Sudanco Supriadi No.26, -7.999761, 112.618337
+GA, Jalan Kolonel Slamet Riyadi No.36, -7.999521, 112.618433
+GA, Jalan Sudanco Supriadi No.78, -7.998649, 112.618733
+GA, Jalan Sudanco Supriadi No.74, -7.998182, 112.618879
+GA, Gang 8 No.70d, -7.997891, 112.618969
+GA, Jalan Sudanco Supriadi No.64 B, -7.997278, 112.619160
+GA, Gang Supriadi VI No.2410, -7.996817, 112.619313
+GA, Jalan Kolonel Slamet Riyadi No.110, -7.995914, 112.619683
+GA, Jalan Kolonel Slamet Riyadi No.87, -7.994941, 112.620034
+GA, Jalan Kolonel Slamet Riyadi No.16, -7.994195, 112.620257
+GA, Jalan Kolonel Slamet Riyadi No.75, -7.993728, 112.620411
+GA, Jalan S.Supriadi 2A, -7.992970, 112.620685
+GA, Jalan Kolonel Slamet Riyadi No.59, -7.992180, 112.620959
+GA, Jalan Kolonel Slamet Riyadi No.49b, -7.991510, 112.621227
+GA, Jalan Kolonel Slamet Riyadi No.49b, -7.991251, 112.621310
+GA, Jalan Kolonel Slamet Riyadi No.49b, -7.990234, 112.621597
+GA, Jalan Sudanco Supriadi No.21, -7.989798, 112.621737
+GA, Jalan Kolonel Slamet Riyadi No.11, -7.989053, 112.621967
+GA, Jalan Kolonel Slamet Riyadi No.11, -7.988383, 112.622120
+GA, Jalan Kolonel Slamet Riyadi No.12, -7.987840, 112.622426
+GA, Jalan Arif Margono No.60 C, -7.987373, 112.622886
+GA, Jalan Arif Margono No.60 C, -7.987038, 112.623128
+GA, Jalan Nusakambangan No.78, -7.986532, 112.623530
+GA, Jalan Arif Margono Gang 8, -7.985749, 112.624130
+GA, Jalan Nasional 23 No.29, -7.985124, 112.624653
+GA, Jalan Arif Margono No.158, -7.984763, 112.625125
+GA, Jalan Arif Margono No.1, -7.984397, 112.625584
+GA, Jalan Brigjend. Katamso No.4, -7.984068, 112.626126
+GA, Jalan Ade Irma Suryani No.31, -7.984252, 112.626937
+GA, Gang 2, -7.984410, 112.627747
+GA, Jalan Ade Irma Suryani No.1, -7.984594, 112.628265
+GA, Jalan Kyai Haji Wahid Hasyim No.22, -7.984676, 112.628774
+GA, Jalan Kyai Haji Wahid Hasyim No.22, -7.984196, 112.628895
+GA, Jalan Kyai Haji Wahid Hasyim No.16, -7.983899, 112.628982
+GA, Jalan Kyai Haji Wahid Hasyim No.10, -7.983527, 112.629077
+GA, Gang 4, -7.983339, 112.629123
+GA, Jalan Kauman No.6, -7.983042, 112.629214
+GA, Jalan Kauman No.15, -7.983005, 112.628956
+GA, Metro Musik, Jalan Kauman No.15, -7.982911, 112.628664
+GA, Jalan Kauman No.19, -7.982768, 112.628083
+GA, Jalan Kauman No.25, -7.982629, 112.627518
+GA, Jalan Kauman No.40, -7.982468, 112.626942
+GA, Jalan Kyai Haji Hasyim Ashari, -7.981994, 112.627097
+GA, Jalan Kyai Haji Hasyim Ashari, -7.981690, 112.627230
+GA, Jalan K.H. Hasyim Ashari 2, -7.981510, 112.627298
+GA, Jalan Arif Rahman Hakim No.22, -7.981138, 112.627442
+GA, Jalan Kawi No.10, -7.980894, 112.627586
+GA, Jalan Arif Rahman Hakim No.20, -7.980984, 112.628080
+GA, Jalan Arif Rahman Hakim No.18, -7.981029, 112.628349
+GA, Misfalah, Jalan Arif Rahman Hakim, -7.981108, 112.628611
+GA, Jalan Arif Rahman Hakim No.8, -7.981221, 112.629073
+GA, Jalan Arif Rahman Hakim No.6, -7.981344, 112.629536
+GA, Jalan Arif Rahman Hakim No.6, -7.981465, 112.629988
+GA, Jalan Merdeka Utara No.10, -7.981559, 112.630374
+GA, Jalan Merdeka Utara No.10, -7.981675, 112.630868
+GA, Jalan Merdeka Utara No.10, -7.981716, 112.631057
+GA, Jalan Merdeka Utara No.10, -7.981810, 112.631509
+GA, Jalan MGR Sugiyopranoto, -7.981870, 112.631725
+GA, Jalan MGR Sugiyopranoto No.4, -7.981389, 112.631834
+GA, Hamur Q, Jalan MGR Sugiyopranoto, -7.981051, 112.631902
+GA, Jalan Klayatan, -7.980623, 112.631865
+GA, Jalan MGR Sugiyopranoto No.4, -7.980465, 112.631553
+GA, Jalan Mojopahit No.1A, -7.980258, 112.630883
+GA, Jalan Mojopahit No.1A, -7.979762, 112.631054
+GA, Jalan Mojopahit No.1-44, -7.979302, 112.631216
+GA, Jalan Mojopahit No.44, -7.979137, 112.631392
+GA, Jalan Mojopahit No.44, -7.979146, 112.631392
+GA, Jalan Mojopahit No.42, -7.979088, 112.631582
+GA, Jalan Mojopahit No.1, -7.978806, 112.632475
+GA, Jalan Mojopahit No.1, -7.978445, 112.632827
+GA, Jalan Tumapel No.7, -7.978029, 112.633183
+GA, Balaikota Malang, Jalan Tugu No.1, -7.977567, 112.633604
+GA, Balaikota Malang, Jalan Tugu No.1, -7.976961, 112.633464
+GA, Jalan Tugu No.1A, -7.976589, 112.633738
+GA, Jalan Suropati No.12, -7.976483, 112.634103
+GA, Jalan Suropati No.12, -7.975920, 112.634232
+GA, Jalan Suropati No.14, -7.975282, 112.634296
+GA, Jalan Suropati No.14, -7.974826, 112.634350
+GA, Jalan Pajajaran No.7, -7.975013, 112.634863
+GA, Jalan Pajajaran No.7, -7.975207, 112.635236
+GA, Jalan Sultan Agung No.9, -7.975382, 112.635582
+GA, Jalan Pajajaran No.14, -7.975549, 112.635976
+GA, Jalan Pajajaran No.16 B, -7.975772, 112.636429
+GA, Jalan Pajajaran No.16 B, -7.975772, 112.636429
+GA, Jalan Trunojoyo No.19, -7.975860, 112.636722
+GA, Jalan Trunojoyo No.25B, -7.975557, 112.636694
+GA, Jalan Trunojoyo No.19, -7.975213, 112.636697
+GA, Jalan Trunojoyo No.19, -7.974924, 112.636686
+GA, Jalan Trunojoyo No.27, -7.974657, 112.636671
+GA, Jalan SIMP Pattimura, -7.974394, 112.636667
+GA, Jalan Trunojoyo No.31 A, -7.974094, 112.636656
+GA, Jalan Trunojoyo No.33, -7.973827, 112.636639
+GA, Jalan Trunojoyo No.33, -7.973567, 112.636635
+GA, Jalan Patimura No.65, -7.973421, 112.636621
+GA, Jalan Patimura No.65, -7.973421, 112.636621
+GA, Jalan Cokroaminoto No.70, -7.973012, 112.636601
+GA, Jalan Cokroaminoto No.34 C, -7.972724, 112.636578
+GA, Jalan Cokroaminoto No.34 C, -7.972519, 112.636563
+GA, Jalan Cokroaminoto No.22, -7.972345, 112.636550
+GA, Jalan Cokroaminoto No.22, -7.971960, 112.636523
+GA, Jalan Cokroaminoto No.22A, -7.971456, 112.636493
+GA, Jalan Husni Tamrin, -7.970660, 112.636436
+GA, Jalan Cokroaminoto No.22A, -7.970451, 112.636427
+GA, Jalan Cokroaminoto, -7.970098, 112.636395
+GA, Jalan Cokroaminoto, -7.969367, 112.636342
+GA, Jalan Dokter Cipto No.71, -7.969333, 112.636675
+GA, Jalan Dokter Cipto No.71, -7.969316, 112.636878
+GA, Jalan Dokter Cipto No.24, -7.969297, 112.637036
+GA, Jalan Dokter Cipto No.24, -7.969273, 112.637354
+GA, Jalan Panglima Sudiraman Utara No.146, -7.969256, 112.637652
+GA, Jalan Panglima Sudiraman Utara No.146, -7.968968, 112.637405
+GA, Jalan Panglima Sudiraman Utara No.146, -7.968732, 112.637398
+GA, Jalan Panglima Sudiraman Utara No.144, -7.967999, 112.637358
+GA, Jalan Panglima Sudiraman Utara No.34, -7.967560, 112.637356
+GA, Jalan Panglima Sudiraman Utara No.34, -7.967536, 112.637707
+GA, Jalan Panglima Sudiraman Utara No.38a, -7.967510, 112.637970
+GA, Jalan Panglima Sudirman, -7.967491, 112.638279
+GA, Jalan Panglima Sudirman, -7.967256, 112.638317
+GA, Jalan Raya Mahakam, -7.967104, 112.638307
+GA, Jalan Panglima Sudirman, -7.966957, 112.638239
+GA, Jalan Panglima Sudirman, -7.966727, 112.638243
+GA, Jalan Raya Mahakam, -7.966360, 112.638229
+GA, Jalan Warung Supratman, -7.965939, 112.637526
+GA, Jalan Warung Supratman, -7.965806, 112.637288
+GA, Jalan Warung Supratman, -7.965488, 112.636790
+GA, Jalan Warung Supratman IV, -7.965466, 112.636608
+GA, Jalan Warung Supratman, -7.965352, 112.636440
+GA, Jalan Warung Supratman, -7.965264, 112.636275
+GA, Jalan Warung Supratman, -7.965041, 112.635905
+GA, Jalan Warung Supratman, -7.964876, 112.635638
+GA, Jalan Warung Supratman, -7.964767, 112.635462
+GA, Jalan Warung Supratman, -7.964724, 112.635367
+GA, Jalan Kaliurang, -7.964484, 112.634910
+GA, Jalan Letjen Sutoyo No.5, -7.964214, 112.635023
+GA, Jalan Letjen Sutoyo 2, -7.963902, 112.635161
+GA, Jalan Raya Malang - Surabaya, -7.962797, 112.635735
+GA, Jalan Letjen Sutoyo No.27B, -7.962255, 112.636019
+GA, Jalan Sarangan No.11, -7.961854, 112.636210
+GA, Jalan Raya Malang - Surabaya, -7.961410, 112.636424
+GA, Jalan Letjen Sutoyo No.45, -7.960327, 112.636891
+GA, Jalan Letjen Sutoyo No.57, -7.959920, 112.637047
+GA, Jalan Letjend Soetoyo IV No.14, -7.959299, 112.637264
+GA, Jalan Raya Malang - Surabaya No.75, -7.958719, 112.637473
+GA, Jalan Raya Malang - Surabaya No.91, -7.958422, 112.637537
+GA, Jalan Letjen Sutoyo V No.12, -7.957864, 112.637714
+GA, Jalan Raya Malang - Surabaya No.91, -7.957219, 112.637862
+GA, Jalan Letjen Sutoyo No.99, -7.956570, 112.638028
+GA, Jalan Raya Malang - Surabaya No.146, -7.956241, 112.638106
+GA, Jalan Letjend S. Parman No.9, -7.955508, 112.638305
+GA, Jalan Balean Barat, -7.954711, 112.638471
+GA, Jalan Raya Malang - Surabaya No.11a, -7.953999, 112.638600
+GA, Jalan Raya Malang - Surabaya No.11a, -7.953757, 112.638675
+GA, Jalan Letjend S. Parman No.33, -7.953476, 112.638731
+GA, Jalan Kedawung No.1A., -7.952974, 112.638833
+GA, Gang Meriah, -7.952161, 112.638994
+GA, GKJW Waru, Jalan S. Parman, -7.951685, 112.639104
+GA, Jalan Raya Malang - Surabaya, -7.950684, 112.639329
+GA, Jalan Letjend S. Parman No.58-D, -7.950346, 112.639415
+GA, Jalan Bantaran, -7.950115, 112.639463
+GA, Jalan Letjend S. Parman No.72, -7.949531, 112.639565
+GA, Jalan Raya Malang - Surabaya No.82, -7.948652, 112.639737
+GA, Jalan Taman Siswa Gang II, -7.948466, 112.639780
+GA, Jalan Letjend S. Parman Gang II, -7.947956, 112.639900
+GA, Jalan Letjend S. Parman No.111, -7.947613, 112.639997
+GA, Jalan Letjend S. Parman Gang III, -7.947331, 112.640069
+GA, Jalan Letjen S. Parman III A, -7.946896, 112.640185
+GA, Jalan Letjen S. Parman III A, -7.946683, 112.640238
+GA, Jalan Letjend S. Parman No.139, -7.945878, 112.640472
+GA, Jalan Candi Bajang Ratu No.12, -7.945517, 112.640579
+GA, Jalan Letjend S. Parman No.147, -7.945180, 112.640694
+GA, Jalan Raya Malang - Surabaya No.108, -7.944757, 112.640823
+GA, Jalan A. Yani No.9, -7.943801, 112.641236
+GA, Jalan A. Yani No.11, -7.943004, 112.641593
+GA, Jalan A. Yani No.26, -7.942321, 112.641883
+GA, Jalan A. Yani No.30, -7.941753, 112.642164
+GA, Jalan Borobudur Gang IVD No.8A, -7.941105, 112.642438
+GA, Jalan A. Yani No.51-55, -7.940193, 112.642883
+GA, Jalan A. Yani No.55, -7.939564, 112.643175
+GA, Jalan Raya Malang - Surabaya No.81, -7.939141, 112.643363
+GA, Jalan Raya Malang - Surabaya No.81, -7.938153, 112.643835
+GA, Jalan Raya Malang - Surabaya No.112, -7.937505, 112.644168
+GA, Jalan Ikan Piranha No.8, -7.936612, 112.644650
+GA, Yayasan Pendidikan Shiddiqiyyah, -7.935741, 112.645165
+GA, Warung Soto Ayam Lamongan, -7.934657, 112.645820
+GA, Jalan Raya Malang - Surabaya No.147, -7.934094, 112.646110
+GA, Jalan Raya Malang - Surabaya No.153a, -7.933520, 112.646442
+GA, Jalan Sumpil 3 No.1, -7.932323, 112.647026
+GA, Jalan Cakalang, -7.931710, 112.647358
+GA, Jalan Sembilang No.6A, -7.929644, 112.648525
+GA, Jalan Polowijen 1, -7.929012, 112.648873
+GA, Jalan Raden Intan No.1, -7.929222, 112.648972
+GA, Jalan Raden Intan No.1, -7.929579, 112.649676
+GA, Jalan Raden Intan No.1, -7.930173, 112.650704
+GA, Jalan Raden Intan No.103, -7.930508, 112.651588
+GA, Jalan Raden Intan, -7.931344, 112.653645
+GA, Jalan Raden Intan No.103, -7.930839, 112.652418
+GA, Jalan Raden Intan, -7.931773, 112.654597
+GA, Jalan Raden Intan, -7.932054, 112.655296
+GA, Jalan Raden Intan, -7.932720, 112.656902
+GA, Jalan Raden Intan, -7.932939, 112.658034
+GA, Jalan Raden Intan No.99, -7.932992, 112.658814
+GA, Jalan Raden Intan No.99, -7.933573, 112.658753
+GA, Jalan Raden Intan No.99, -7.933943, 112.658710
+GA, Jalan Raden Intan No.99, -7.934333, 112.658697
+GA, Jalan Raden Intan No.99, -7.934611, 112.658519
+GA, Jalan Raden Intan No.99, -7.934601, 112.658316 
