@@ -21,23 +21,29 @@
 			if (count($data) > 3) {
 				$strAngkot = $data[0];
 				
-				$strQuery = "INSERT INTO angkot SET angkot_name = '$strAngkot', angkot_desc='$strAngkot', angkot_price='4000'";
-				echo $strQuery."<br />";
-				
-				
-				/*
-				$strSelect = "SELECT * FROM angkot WHERE angkot_name = '$strAngkot'";
-				$rst = $mysqli->query($strSelect);
+				$strSQL = "SELECT * FROM angkot WHERE angkot_name = '$strAngkot'";
+				$rst = $mysqli->query($strSQL);
 				$rows = $rst->fetch_array();
 				
-				print_r($rows);
-				exit;
+				if (count($rows) == 0) {
+					
+					$strSQL = "INSERT INTO angkot SET angkot_name = '$strAngkot', angkot_desc = '$strAngkot', angkot_price = '4000'";
+					$rst = $mysqli->query($strSQL);
+					
+					$angkot_id = $mysqli->insert_id;
+				}
+				else {
+					$angkot_id = $rows[0];
+				}
 				
 				
-				$strQuery = "INSERT INTO angkot SET angkot_name = '$strAngkot'";
+				$strJalan = $data[1];
+				$latitude = $data[2];
+				$longitude = $data[3];
 				
-				echo $strAngkot."<br />";
-				*/
+				$strSQL = "INSERT INTO rute SET angkot_id = '$angkot_id', rute_name = '$strJalan', latitude = '$latitude', longitude = '$longitude'";
+				$rst = $mysqli->query($strSQL);
+				
 			}
 			
 		}
